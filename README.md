@@ -22,7 +22,7 @@
     <img src='https://img.shields.io/badge/Arxiv-2603.03279-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
   <a href='https://arxiv.org/pdf/2603.03279'>
     <img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow'></a>
-  <a href='https://ultra-humanoid.github.io/'>
+  <a href='https://ultrahumanoid.github.io/'>
     <img src='https://img.shields.io/badge/Project-Page-green?style=flat&logo=Google%20chrome&logoColor=green'></a>
   <a href='https://github.com/Sirui-Xu/ULTRA'>
     <img src='https://img.shields.io/badge/GitHub-Code-black?style=flat&logo=github&logoColor=white'></a>
